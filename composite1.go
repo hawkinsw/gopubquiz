@@ -11,3 +11,8 @@ func main() {
 	output := []string{"a", 2: "d", "c", 1: "b", 6: "e"}
 	fmt.Println(len(output))
 }
+
+/*
+Answer:
+7
+*/

@@ -33,3 +33,11 @@ func D() int {
 func main() {
 	fmt.Println("Hello, World.")
 }
+
+/*
+Answer:
+D
+C
+B
+Hello, World.
+*/

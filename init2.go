@@ -22,3 +22,8 @@ func main() {
 	runner(i)
 	runner(init)
 }
+
+/*
+Answer:
+./init2.go:23: undefined: init
+*/

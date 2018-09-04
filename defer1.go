@@ -12,3 +12,8 @@ func main() {
 		defer fmt.Print(i)
 	}
 }
+
+/*
+Answer:
+3210
+*/

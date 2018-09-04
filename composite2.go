@@ -15,3 +15,8 @@ func main() {
 	var q Q
 	fmt.Println(Q.Hola(q))
 }
+
+/*
+Answer:
+Bueno
+*/

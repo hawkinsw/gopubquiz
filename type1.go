@@ -16,3 +16,8 @@ func main() {
 
 	fmt.Println(sum)
 }
+
+/*
+Answer:
+./type1.go:15: invalid operation: a + b (mismatched types int8 and int16)
+*/

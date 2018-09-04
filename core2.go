@@ -11,3 +11,8 @@ func main() {
 	var a, b, c = 3, 4, "c"
 	fmt.Println(a, b, c)
 }
+
+/*
+Answer:
+3 4 c
+*/

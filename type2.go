@@ -8,3 +8,9 @@ func main() {
 	fmt.Println("s: ", s)
 	fmt.Println("sp: ", sp)
 }
+
+/*
+Answer:
+s:  
+sp:  <nil>
+*/

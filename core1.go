@@ -17,3 +17,8 @@ const (
 func main() {
 	fmt.Println(a, b, c, d)
 }
+
+/*
+Answer:
+0 1 0 0
+*/
